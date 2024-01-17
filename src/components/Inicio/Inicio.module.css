@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+*{
+    background-color: #FFFFFF;
+    font-size: 116px;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+}
+
+.divIntro,h1{
+    display: flex;
+    top: 230%;
+    transform: translateY(230%); 
+    position: relative;
+    color: #588157;
+}
+
